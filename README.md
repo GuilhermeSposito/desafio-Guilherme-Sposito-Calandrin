@@ -1,2 +1,1 @@
-# desafio-Guilherme-Sposito-Calandrin
-Desafio feito para o processo seletivo DB START 
+ # Desafio Feito para o processo seletivo da DB Start .  💻
